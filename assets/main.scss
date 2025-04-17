@@ -5,7 +5,7 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #f5f5dc; 
+  background-color: #f5f5dc !important;
 }
 
 .post img {
